@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 cucold loulou ducon
+=======
+coucou loulou ducon couille
+>>>>>>> dev
